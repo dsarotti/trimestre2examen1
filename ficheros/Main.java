@@ -53,7 +53,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-
         insertaPrimeraLinea("texto.txt", "¡Hola mundo!");
         insertaPrimeraLineaBinario("texto.txt", "Hola mundo binario");
     }
